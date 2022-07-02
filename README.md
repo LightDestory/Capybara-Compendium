@@ -5,7 +5,7 @@
   - [📘 Contenuti](#blue_book-contenuti)
   - [📕 Avvertimento](#closed_book-avvertimento)
 
-## 📗 Descrizione
+## :green_book: Descrizione
 
 Raccolta dei vari riassunti e integrazini che ho elaborato per i corsi del CdL in Informatica dell'UniCT.
 

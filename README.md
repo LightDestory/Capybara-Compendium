@@ -11,7 +11,7 @@ Raccolta dei vari riassunti e integrazini che ho elaborato per i corsi del CdL i
 
 _Originariamente destinati all'uso personale e successivamente resi pubblici, perciò rispecchiano il mio metodo di studio e di esposizione degli argomenti._
 
-## blue_book Contenuti
+## :blue_book: Contenuti
 
 | Corso                          | Anno Accademico | Link                                                                                                    |
 | ------------------------------ | --------------- | ------------------------------------------------------------------------------------------------------- |

@@ -1,17 +1,17 @@
 # Capybara Compendium
 
 - [Capybara Compendium](#capybara-compendium)
-  - [:green_book: Descrizione](#green_book-descrizione)
-  - [:blue_book: Contenuti](#blue_book-contenuti)
-  - [:closed_book: Avvertimento](#closed_book-avvertimento)
+  - [📗 Descrizione](#green_book-descrizione)
+  - [📘 Contenuti](#blue_book-contenuti)
+  - [📕 Avvertimento](#closed_book-avvertimento)
 
-## :green_book: Descrizione
+## 📗 Descrizione
 
 Raccolta dei vari riassunti e integrazini che ho elaborato per i corsi del CdL in Informatica dell'UniCT.
 
 _Originariamente destinati all'uso personale e successivamente resi pubblici, perciò rispecchiano il mio metodo di studio e di esposizione degli argomenti._
 
-## :blue_book: Contenuti
+## 📘 Contenuti
 
 | Corso                          | Anno Accademico | Link                                                                                                    |
 | ------------------------------ | --------------- | ------------------------------------------------------------------------------------------------------- |
@@ -23,7 +23,7 @@ _Originariamente destinati all'uso personale e successivamente resi pubblici, pe
 | Programmazione                 | 18/19           | [Qui](./Appunti/Primo%20Anno/Programmazione%201-2/)                                                     |
 | Web Programming and Usability  | 20/21           | [Qui](./Appunti/Terzo%20Anno/WebDev/Web%20Programming%20and%20Usability.pdf)                            |
 
-## :closed_book: Avvertimento
+## 📕 Avvertimento
 
 L'obbiettivo di questi riassunti è permettere un veloce ripasso degli argomenti trattati in uno specifico anno accademico, non vogliono in alcun modo sostituire le lezioni e i libri di testo consigliati.
 

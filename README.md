@@ -1,9 +1,9 @@
 # Capybara Compendium
 
 - [Capybara Compendium](#capybara-compendium)
-  - [:green_book: Descrizione](#green_book-descrizione)
-  - [:blue_book: Contenuti](#blue_book-contenuti)
-  - [:closed_book: Avvertimento](#closed_book-avvertimento)
+  - [:green\_book: Descrizione](#green_book-descrizione)
+  - [:blue\_book: Contenuti](#blue_book-contenuti)
+  - [:closed\_book: Avvertimento](#closed_book-avvertimento)
 
 ## :green_book: Descrizione
 
@@ -19,8 +19,9 @@ _Originariamente destinati all'uso personale e successivamente resi pubblici, pe
 | Architettura degli Elaboratori | 19/20           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Primo%20Anno/Architettura%20degli%20Elaboratori/Architettura%20degli%20Elaboratori.pdf) |
 | Ingegneria del Software        | 19/20           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Secondo%20Anno/Ingegneria%20del%20Software/Ingegneria%20del%20Software.pdf)             |
 | Interazione e Multimedia       | 19/20           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Secondo%20Anno/Interazione%20e%20Multimedia/Interazione%20e%20Multimedia.pdf)           |
+| Fisica (9 CFU)       | 20/21           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Terzo%20Anno/Fisica/Fisica.pdf)                 |
 | Fondamenti D'Informatica       | 19/20           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Primo%20Anno/Fondamenti%20D'Informatica/Fondamenti%20D'Informatica.pdf)                 |
-| Metodi Matematici Statistici                 | 21/22           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Terzo%20Anno/MMS/Metodi%20Matematici%20Statistici.pdf)                                                     |
+| Metodi Matematici Statistici   | 21/22           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Terzo%20Anno/MMS/Metodi%20Matematici%20Statistici.pdf)                                  |
 | Programmazione                 | 18/19           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Primo%20Anno/Programmazione%201-2/)                                                     |
 | Web Programming and Usability  | 20/21           | [Qui](https://github.com/LightDestory/Capybara-Compendium/tree/master/Appunti/Terzo%20Anno/WebDev/Web%20Programming%20and%20Usability.pdf)                            |
 

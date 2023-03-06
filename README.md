@@ -2,7 +2,7 @@
 
 - [Capybara Compendium](#capybara-compendium)
   - [:green\_book: Descrizione](#green_book-descrizione)
-  - [:red\_book: CdL-Triennale](#red_book-cdl-triennale)
+  - [:orange\_book: CdL-Triennale](#orange_book-cdl-triennale)
   - [:blue\_book: CdL-Magistrale](#blue_book-cdl-magistrale)
   - [:closed\_book: Avvertimento](#closed_book-avvertimento)
 
@@ -12,7 +12,7 @@ Raccolta dei vari riassunti e integrazini che ho elaborato per i corsi dei CdL T
 
 _Originariamente destinati all'uso personale e successivamente resi pubblici, perciò rispecchiano il mio metodo di studio e di esposizione degli argomenti._
 
-## :red_book: CdL-Triennale
+## :orange_book: CdL-Triennale
 
 | Corso                          | Anno Accademico | Link                                                                                                                                                                            |
 | ------------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -5,8 +5,8 @@
 
 <div align="center">
 
-  <a href="https://github.com/LightDestory/RepositoryTemplate">
-    <img src=".github/assets/images/presentation_image.png" alt="Preview">
+  <a href="https://github.com/LightDestory/Capybara-Compendium">
+    <img src="https://raw.githubusercontent.com/LightDestory/Capybara-Compendium/master/.github/assets/images/presentation_image.png" alt="Preview">
   </a>
 
   <h2 align="center">Capybara Compendium</h2>
@@ -97,7 +97,7 @@ If you find value in my work, please consider making a donation to help me creat
 Your donation will go a long way in helping me continue to create free software that can benefit people around the world.
 
 <p align="center">
-<a href='https://ko-fi.com/M4M6KC01A' target='_blank'><img src='.github/assets/images/support.png' alt='Buy Me a Hot Chocolate at ko-fi.com' width="45%" /></a>
+<a href='https://ko-fi.com/M4M6KC01A' target='_blank'><img src='https://raw.githubusercontent.com/LightDestory/Capybara-Compendium/master/.github/assets/images/support.png' alt='Buy Me a Hot Chocolate at ko-fi.com' width="45%" /></a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
